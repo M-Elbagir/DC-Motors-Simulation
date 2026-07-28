@@ -2,6 +2,8 @@
 
 A simulation of four DC motors controlled by an Arduino Uno and an L293D motor driver. The motors execute a continuous, predefined movement sequence.
 
+Simulation link: https://www.tinkercad.com/things/9YzaDJvx52C-4-dc-motors?sharecode=bG6XZ__5_dcrCEiSvb6c_1OjOyNSDhffkEg2vQMxtNQ
+
 ## Working Principle
 
 The four DC motors operate synchronously in a repeating sequence:
